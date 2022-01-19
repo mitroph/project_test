@@ -25,6 +25,8 @@ console.log(obj);
 let apples = 2;
 let oranges = 3;
 
+
+
 console.log(`${apples} + ${oranges} = ${apples + oranges}`);
 
 let a = '';
